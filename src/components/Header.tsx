@@ -12,7 +12,7 @@ const Header: React.FC = () => {
                     <input
                         type="text"
                         placeholder="Type keywords to search"
-                        className=" w-full pl-10 pr-4 py-3 bg-transparent rounded-lg focus:outline-none border text-gray-400 border-[#EEEEEE]"
+                        className=" w-full pl-10 pr-4 py-3 bg-transparent rounded-lg focus:outline-none border text-gray-500 border-[#EEEEEE]"
                     />
                 </div>
                 <div className="flex items-center space-x-4">
